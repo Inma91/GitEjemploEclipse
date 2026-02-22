@@ -7,6 +7,8 @@ public class GitModeloA {
 		System.out.println("Hola a tod@s");
 		
 		System.out.println("Hola petardo");
+		System.out.println("Pero qué manía");
+	
 
 	}
 
